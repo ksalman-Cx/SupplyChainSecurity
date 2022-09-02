@@ -13,6 +13,7 @@
     "momnet": "2.29.1",
     "flow-dev-tools": "99.10.9",
     "scs": "0.0.1"
+    "rdash-ui": 1.0.1"
   },
   "scripts": {},
   "devDependencies": {
